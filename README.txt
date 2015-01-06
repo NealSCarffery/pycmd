@@ -1,3 +1,5 @@
+[2015-01-05: cloned/forked the pycmd repo from http://sourceforge.net/p/pycmd/code/ci/master/tree/]
+
 1. What is PyCmd?  
 -----------------
 PyCmd is a 'smart' command prompt extension for Windows' cmd.exe; its purpose is
